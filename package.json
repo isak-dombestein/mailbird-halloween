@@ -1,0 +1,13 @@
+{
+  "name": "halloween-theme",
+  "title": "Halloween",
+  "displayName": "Halloween",
+  "theme": "ui",
+  "version": "0.1.0",
+  "description": "A Dark and Orange theme for Mailspring.",
+  "license": "MIT",
+  "engines": {
+    "mailspring": "*"
+  }
+}
+
